@@ -1,0 +1,6 @@
+E:\HOC_KY_6\PTTKGT\BaiTap\NguoiDuLich\GTS\GTS\bin\Debug\GTS.exe.config
+E:\HOC_KY_6\PTTKGT\BaiTap\5_NguoiDuLich\GTS\GTS\bin\Debug\GTS.exe.config
+E:\HOC_KY_6\PTTKGT\BaiTap\5_NguoiDuLich\GTS\GTS\bin\Debug\GTS.exe
+E:\HOC_KY_6\PTTKGT\BaiTap\5_NguoiDuLich\GTS\GTS\bin\Debug\GTS.pdb
+E:\HOC_KY_6\PTTKGT\BaiTap\5_NguoiDuLich\GTS\GTS\obj\Debug\GTS.exe
+E:\HOC_KY_6\PTTKGT\BaiTap\5_NguoiDuLich\GTS\GTS\obj\Debug\GTS.pdb
